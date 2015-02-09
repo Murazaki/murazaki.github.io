@@ -1,0 +1,4 @@
+= Hello World !
+:hp-tags: hello,world
+
+Testing the hubpress system :)
